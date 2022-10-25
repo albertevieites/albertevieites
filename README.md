@@ -1,4 +1,4 @@
-# About Me:
+# Hi there! It's Alberte
 <br>I'm a Frontend Developer. I've got an innovative approach to self-expression through my work.
 
 
