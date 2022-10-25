@@ -1,5 +1,5 @@
 # About Me:
-<br>Frontend Developer – Javascript (ES6) | HTML | CSS | React | NodeJS | MongoDb | Express I've got an innovative approach to self-expression through my work.
+<br>I'm a Frontend Developer. I've got an innovative approach to self-expression through my work.
 
 
 # Tech Stack:
