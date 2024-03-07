@@ -1,9 +1,9 @@
 # Hey! It's Alberte.
 
-I am a passionate full-stack developer with a growing fascination for data-related projects. Beyond functionality, I place a special emphasis on the attention to detail and the aesthetic aspect of my work. I believe that a well-designed user interface and a seamless user experience are crucial for the success of any project.
+I am a passionate **full-stack developer** with a growing fascination for **data-related projects**. Beyond functionality, I place a special emphasis on the *attention to detail* and the *aesthetic* aspect of my work. I believe that a well-designed user interface and a seamless user experience are crucial for the success of any project.
 
 ```javascript
-// Tech Stack Knowledge
+// Full-stack Knowledge
 const technologies = [
   "HTML",
   "CSS",
@@ -21,7 +21,10 @@ technologies.map((technology) => {
 });
 ```
 
-Recently, my curiosity to uncover insights through data led me to dive into the world of data. I've completed different courses on data analysis, statistics, and machine learning, and am applying these newfound skills in projects requiring deep analysis and data visualization to make informed decisions.
+Recently, my curiosity to uncover insights through **data** led me to dive into the **world of data**.
+I've completed different courses on **data analysis**, **statistics**, and **machine learning**,
+and be applying these newfound skills in projects
+requiring deep analysis and **data visualization** to make informed decisions.
 
 ```python
 # Technical Knowledge
