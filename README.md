@@ -1,13 +1,22 @@
 # Hey! It's Alberte.
 
-I am a passionate full-stack developer with a growing fascination for data-related projects. Beyond functionality, I place a special emphasis on the attention to detail and the aesthetic aspect of my work. I believe that a well-designed user interface and a seamless user experience are crucial for the success of any project. 
+I am a passionate full-stack developer with a growing fascination for data-related projects. Beyond functionality, I place a special emphasis on the attention to detail and the aesthetic aspect of my work. I believe that a well-designed user interface and a seamless user experience are crucial for the success of any project.
 
 ```javascript
 // Tech Stack Knowledge
-const technologies = ['HTML', 'CSS', 'Sass', 'JavaScript', 'React', 'MongoDB', 'Mongoose', 'Express'];
+const technologies = [
+  "HTML",
+  "CSS",
+  "Sass",
+  "JavaScript",
+  "React",
+  "MongoDB",
+  "Mongoose",
+  "Express",
+];
 
 // Iterate over the array and display each technology
-technologies.map(technology => {
+technologies.map((technology) => {
   console.log(`I love working with ${technology}! 💻🚀`);
 });
 ```
