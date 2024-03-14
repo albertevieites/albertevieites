@@ -1,19 +1,19 @@
 # Hey! It's Alberte.
 
-I am a passionate **full-stack developer** with a growing fascination for **data-related projects**. Beyond functionality, I place a special emphasis on the *attention to detail* and the *aesthetic* aspect of my work. I believe that a well-designed user interface and a seamless user experience are crucial for the success of any project.
+I am a passionate **full-stack developer** with a growing fascination for **data-related projects**. Beyond functionality, I place a special emphasis on the _attention to detail_ and the _aesthetic_ aspect of my work. I believe that a well-designed user interface and a seamless user experience are crucial for the success of any project.
 
 ```javascript
 // Full-stack Knowledge
 const technologies = [
-    "HTML",
-    "CSS",
-    "Sass",
-    "JavaScript", 
-    "Three JS",
-    "React",
-    "Astro",
-    "MongoDB",
-    "Express",
+  "HTML",
+  "CSS",
+  "Sass",
+  "JavaScript",
+  "Three JS",
+  "React",
+  "Astro",
+  "MongoDB",
+  "Express",
 ];
 
 // Iterate over the array and display each technology
@@ -23,6 +23,7 @@ technologies.map((technology) => {
 ```
 
 ---
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -43,7 +44,7 @@ requiring deep analysis and **data visualization** to make informed decisions.
 ```python
 # Technical Knowledge
 technologies = [
-    'Excel', 'Tableau', 'Power BI', 'Azure', 'Python', 'R', 'Streamlit', 'Shiny for Python',
+    'Excel', 'Tableau', 'Power BI', 'Azure', 'My SQL', 'Python', 'Numpy', 'Pandas', 'Matplotlib', 'Plotly', 'scikit-learn', 'SciPy', 'Tensorflow', 'Keras', 'R', 'Streamlit', 'Shiny for Python',
     'Supervised Learning', 'Unsupervised Learning', 'Reinforcement Learning'
 ]
 
@@ -58,13 +59,24 @@ for tech in technologies:
 ```
 
 ---
+
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=albertevieites&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
