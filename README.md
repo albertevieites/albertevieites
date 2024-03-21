@@ -5,7 +5,7 @@ I am a passionate **full-stack developer** with a growing fascination for **data
 ```javascript
 // Full-stack Knowledge
 const technologies = [
-  "HTML", "CSS", "Sass", "JavaScript", "Three JS", "React", "Astro", "MongoDB", "Express",
+  "HTML", "CSS", "Sass", "JavaScript", "Three JS", "React", "Astro", "MongoDB", "Express"
 ];
 
 // Iterate over the array and display each technology
